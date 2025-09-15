@@ -19,7 +19,7 @@ e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha 
 
 <
 <a href = "mailto:gustavouefa2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https:/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://https://www.linkedin.com/in/gustavo-regueira-dias-prestes-53b580333/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
 

@@ -5,7 +5,7 @@ e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha 
  </div>                   
           
 ## Estou aprendendo
-<div>
+
 <img 
     align="left" 
     alt="HTML"
@@ -24,10 +24,9 @@ e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<div>
+
 ## Contatos:
 
-<div>
 
 <
 <a href = "mailto:gustavouefa2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

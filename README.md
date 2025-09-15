@@ -2,11 +2,10 @@
 ##                              
 Olá! Meu nome é Gustavo Regueira Dias Prestes, 
 e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha formação anterior foi em Ciências Contábeis, e agora busco combinar minha experiência com novas habilidades em tecnologia.
-     
-
  </div>                   
           
 ## Estou aprendendo
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -26,8 +25,6 @@ e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha 
 />
 
 <div>
-     
-
 ## Contatos:
 
 <div>

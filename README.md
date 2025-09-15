@@ -24,6 +24,7 @@ e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Minha 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <div>
      
 
